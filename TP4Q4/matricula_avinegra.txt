@@ -1,0 +1,1 @@
+matricula: 726911	tempo de execucao: 309 milissegundos	numero de comparacoes: 60
