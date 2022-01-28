@@ -1,0 +1,1 @@
+matricula: 726911	tempo de execucao: 394 milissegundos	numero de comparacoes: 3290	numero de mudancas: 830
